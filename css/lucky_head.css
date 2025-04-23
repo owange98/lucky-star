@@ -1,0 +1,27 @@
+body{
+margin:0;
+padding:0;
+font-size:12px;
+color:#333333;
+}
+
+.header {
+width:800px;
+border-right:1px solid #F39;
+border-top:1px solid #F39;
+}
+
+.title {
+font-size:14px;
+line-height:16px;
+}
+
+a.hotpink:link { color:#F69;
+ text-decoration: none;
+ font-weight:bold; }
+a.hotpink:visited { color:#F69;
+ text-decoration: none;
+ font-weight:bold; }
+a.hotpink:hover { color:#F9C;
+ text-decoration: underline;
+ font-weight:bold;}
